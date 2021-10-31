@@ -1,3 +1,3 @@
 # monster-game
 
-Small application built on with the vue framework
+Small application built on the vue framework
